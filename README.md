@@ -1,5 +1,5 @@
 # Proyecto - Economia Digital
-## Universidad Nacional Autonoma de Honduras
+### Universidad Nacional Autonoma de Honduras
 
-### Grupo:
+#### Grupo:
 - Oned Alejandro Gómez Sauceda
